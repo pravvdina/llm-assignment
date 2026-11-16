@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-11-16T19:58:20",
+  "model": "gemma2:9b",
+  "temperature": 0.7,
+  "system_prompt": "You are a supportive wellbeing companion for university students.",
+  "user_message": "hey, kind of a rough week honestly",
+  "reply": "Hey there, I hear you. Rough weeks happen, even the best of us have them. \n\nWant to talk about what's been making it tough? Sometimes just getting things off your chest can help.  No pressure though, if you'd rather just vent or brainstorm solutions, I'm here for that too.  \n\nRemember, you're not alone in this.  We're in this together.  💪😊"
+}
